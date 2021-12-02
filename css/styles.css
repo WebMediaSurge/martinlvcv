@@ -1,0 +1,179 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Jockey One', sans-serif;
+}
+
+.title {
+  background-color: #1F1D36;
+  background-size: cover;
+  position: relative;
+  padding-top: 100px;
+  background-image: url(https://images.wallpapersden.com/image/download/milky-way-starry-sky-landscape_bGZqaGyUmZqaraWkpJRnbGhnrWdlaW0.jpg);
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  color: white;
+  font-family: 'Sacramento', cursive;
+  font-size: 8rem;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 3rem;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  font-size: 2rem;
+  color: #11999E;
+}
+
+h4 {
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  margin: 0 auto 20px auto;
+  font-weight: normal;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+  border-width: .5rem;
+  width: 5%;
+  margin: 4rem auto 4rem auto;
+}
+
+p {
+  color: white;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  padding-bottom: 1rem;
+}
+
+.middle-container {
+  background-color: #133B5C;
+
+  margin: 0 auto 0 auto;
+  padding-top: 6rem;
+  font-family: 'Jockey One', sans-serif;
+}
+
+.bottom-container {
+  background-image: url(https://img2.goodfon.com/original/1920x1080/3/5c/peyzazh-zvezdnoe-nebo-zvezdy.jpg);
+  background-size: cover;
+  margin: 0px auto 0 auto;
+  font-family: 'Jockey One', sans-serif;
+}
+
+.meteor1 {
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  right: 100px;
+  top: 25px;
+}
+
+.meteor2 {
+  width: 350px;
+  height: 350px;
+  position: absolute;
+  left: 100px;
+  top: 25px;
+}
+
+.space {
+  height: 37.5em;
+  width: 37.5em;
+}
+
+.skill2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill1 {
+  width: 40%;
+  float: left;
+  margin-right: 30px;
+}
+
+.profile1 {
+  width: 15%;
+  height: 15%;
+}
+
+a {
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+a:hover {
+  color: #11999E;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.btn {
+  background: #d10404;
+  background-image: -webkit-linear-gradient(top, #d10404, #fc3a3a);
+  background-image: -moz-linear-gradient(top, #d10404, #fc3a3a);
+  background-image: -ms-linear-gradient(top, #d10404, #fc3a3a);
+  background-image: -o-linear-gradient(top, #d10404, #fc3a3a);
+  background-image: linear-gradient(to bottom, #d10404, #fc3a3a);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Jockey One', sans-serif;
+  color: #ffffff;
+  font-size: 22px;
+  padding: 10px 40px 10px 40px;
+  text-decoration: none;
+  margin-bottom: 4rem;
+}
+
+.btn:hover {
+  background: #fc1952;
+  background-image: -webkit-linear-gradient(top, #fc1952, #ff4040);
+  background-image: -moz-linear-gradient(top, #fc1952, #ff4040);
+  background-image: -ms-linear-gradient(top, #fc1952, #ff4040);
+  background-image: -o-linear-gradient(top, #fc1952, #ff4040);
+  background-image: linear-gradient(to bottom, #fc1952, #ff4040);
+  text-decoration: none;
+}
+
+.intro1 {
+  width: 30%;
+  margin: 0 auto;
+}
+
+.footer-link {
+  display: inline-block;
+  padding-top: 50px;
+  justify-content: space-around;
+  font-size: 2rem;
+  color: white;
+}
+
+.copyright {
+  font-size: .75rem;
+  padding: 1rem auto 1rem auto;
+}
+
+.contact-me {
+  padding-bottom: 2rem;
+}
